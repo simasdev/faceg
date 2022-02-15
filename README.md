@@ -27,3 +27,7 @@ By default only root folder will be searched, if you want all subdirectories to 
 --itr
 ```
 
+## Example
+
+![before-faceg](https://user-images.githubusercontent.com/88032459/154000918-4bb83747-6dfd-4438-8b81-ebfb9ffa484c.PNG)
+![after-faceg](https://user-images.githubusercontent.com/88032459/154000934-baf280e5-c1e0-43e3-86a1-57264719959d.PNG)
