@@ -7,7 +7,7 @@ Faceg is a simple tool that groups images by found faces.
 
 Provided directory will be searched for image files.
 
-- Images that do not contain face will be copied to a new folder called 'FaceNotFound'
+- Images that do not contain face will be copied to a new folder called 'FaceNotDetected'
 - Images with a face that was found in more than one photo will be copied to a new folder called 'People_[n]'
 - Images with a face that was found only once will be copied to a new folder called 'Person_[n]'
 
